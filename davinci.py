@@ -1,4 +1,6 @@
-'''
+''' 
+You can get you API key right here → https://openai.com/api/ 
+
 I wanted to create a program where I can work with storing data,
 and at the same time configuring and working with chatGPT.
 So there is a lot to improve, that I will work on from time to time.
@@ -7,7 +9,7 @@ So there is a lot to improve, that I will work on from time to time.
 
 import openai
 
-openai.api_key = 'YOUR_API_KEY_IN_HERE'
+openai.api_key = 'YOUR_API_KEY_IN_HERE' # In this place you can put your API Key
 
 data = {}
 
